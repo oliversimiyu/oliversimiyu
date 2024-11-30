@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Oliver Simiyu
 
-## Hello Fellow < Developers/ >
+## Hello Fellow Developers!!
 
 I'm Oliver, a passionate Full Stack Developer from Kenya. I love the collaborative and open-source nature of the web development community, and I'm excited to share my projects and contributions on GitHub. My goal is to not only continue learning and growing as a developer but also to contribute to and learn from the amazing projects and people in the GitHub community.
 
