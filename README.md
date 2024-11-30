@@ -6,8 +6,8 @@ I'm Oliver, a passionate Full Stack Developer from Kenya. I love the collaborati
 
 Feel free to check out my repositories and connect with me on GitHub. I'm always open to new opportunities and collaborations, so don't hesitate to reach out!
 
-![Profile Views](https://komarev.com/ghpvc/?username=Simiyuoliver&color=brightgreen&style=flat&label=Profile+Views)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Simiyuoliver)
+![Profile Views](https://komarev.com/ghpvc/?username=oliversimiyu&color=brightgreen&style=flat&label=Profile+Views)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/oliversimiyu)
 
 ## ☕ Support
 
@@ -23,11 +23,11 @@ Feel free to check out my repositories and connect with me on GitHub. I'm always
 
 | Project | Issues | Open PRs | Closed PRs |
 |---------|--------|-----------|------------|
-| [smart-home-automation](https://github.com/Simiyuoliver/smart-home-automation) | ![Issues](https://img.shields.io/github/issues/Simiyuoliver/smart-home-automation) | ![PRs](https://img.shields.io/github/issues-pr/Simiyuoliver/smart-home-automation) | ![Closed PRs](https://img.shields.io/github/issues-pr-closed/Simiyuoliver/smart-home-automation) |
-| [vue-chat-app](https://github.com/Simiyuoliver/vue-chat-app) | ![Issues](https://img.shields.io/github/issues/Simiyuoliver/vue-chat-app) | ![PRs](https://img.shields.io/github/issues-pr/Simiyuoliver/vue-chat-app) | ![Closed PRs](https://img.shields.io/github/issues-pr-closed/Simiyuoliver/vue-chat-app) |
-| [smart-door-system](https://github.com/Simiyuoliver/smart-door-system) | ![Issues](https://img.shields.io/github/issues/Simiyuoliver/smart-door-system) | ![PRs](https://img.shields.io/github/issues-pr/Simiyuoliver/smart-door-system) | ![Closed PRs](https://img.shields.io/github/issues-pr-closed/Simiyuoliver/smart-door-system) |
+| [smart-home-automation](https://github.com/oliversimiyu/smart-home-automation) | ![Issues](https://img.shields.io/github/issues/oliversimiyu/smart-home-automation) | ![PRs](https://img.shields.io/github/issues-pr/oliversimiyu/smart-home-automation) | ![Closed PRs](https://img.shields.io/github/issues-pr-closed/oliversimiyu/smart-home-automation) |
+| [vue-chat-app](https://github.com/oliversimiyu/vue-chat-app) | ![Issues](https://img.shields.io/github/issues/oliversimiyu/vue-chat-app) | ![PRs](https://img.shields.io/github/issues-pr/oliversimiyu/vue-chat-app) | ![Closed PRs](https://img.shields.io/github/issues-pr-closed/oliversimiyu/vue-chat-app) |
+| [smart-door-system](https://github.com/oliversimiyu/smart-door-system) | ![Issues](https://img.shields.io/github/issues/oliversimiyu/smart-door-system) | ![PRs](https://img.shields.io/github/issues-pr/oliversimiyu/smart-door-system) | ![Closed PRs](https://img.shields.io/github/issues-pr-closed/oliversimiyu/smart-door-system) |
 
-[Click here](https://github.com/Simiyuoliver?tab=repositories) to view my other projects.
+[Click here](https://github.com/oliversimiyu?tab=repositories) to view my other projects.
 
 ## 🚀 About Me
 I'm a passionate Developer with expertise in building robust web applications. My experience spans:
@@ -107,24 +107,24 @@ SQL          ████████████░░░░░░   70%
 
 ## 📊 GitHub Stats
 
-![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simiyuoliver&show_icons=true&theme=radical)
+![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliversimiyu&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Simiyuoliver&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliversimiyu&layout=compact&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Simiyuoliver&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oliversimiyu&theme=radical)](https://git.io/streak-stats)
 
 ## 🌟 Featured Projects
-- [smart-home-automation](https://github.com/Simiyuoliver/smart-home-automation) - Python-based smart home automation system
-- [vue-chat-app](https://github.com/Simiyuoliver/vue-chat-app) - Real-time chat application built with Vue.js
-- [smart-door-system](https://github.com/Simiyuoliver/smart-door-system) - Python-based smart door access control system
-- [portfolio](https://github.com/Simiyuoliver/portfolio) - Personal portfolio website built with CSS
-- [AmbulanceBookingApp](https://github.com/Simiyuoliver/AmbulanceBookingApp) - An Android application for booking ambulances in case of an emergency
-- [OOP-School-Library-dev](https://github.com/Simiyuoliver/OOP-School-Library-dev) - Object-oriented library management system
+- [smart-home-automation](https://github.com/oliversimiyu/smart-home-automation) - Python-based smart home automation system
+- [vue-chat-app](https://github.com/oliversimiyu/vue-chat-app) - Real-time chat application built with Vue.js
+- [smart-door-system](https://github.com/oliversimiyu/smart-door-system) - Python-based smart door access control system
+- [portfolio](https://github.com/oliversimiyu/portfolio) - Personal portfolio website built with CSS
+- [AmbulanceBookingApp](https://github.com/oliversimiyu/AmbulanceBookingApp) - An Android application for booking ambulances in case of an emergency
+- [OOP-School-Library-dev](https://github.com/oliversimiyu/OOP-School-Library-dev) - Object-oriented library management system
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-simiyu-737853271/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliversimiyu073@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Simiyuoliver)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oliversimiyu)
 
 ## 🎯 Current Focus
 - Advancing my skills in Django and React development
@@ -133,4 +133,4 @@ SQL          ████████████░░░░░░   70%
 - Exploring machine learning and AI applications
 
 ---
-⭐️ From [Simiyuoliver](https://github.com/Simiyuoliver)
+⭐️ From [oliversimiyu](https://github.com/oliversimiyu)
