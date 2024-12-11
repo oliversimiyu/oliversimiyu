@@ -113,7 +113,7 @@ SQL          ████████████░░░░░░   70%
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliversimiyu&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=oliversimiyu&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=oliversimiyu)](https://git.io/streak-stats)
 
 </div>
 
