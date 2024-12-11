@@ -109,11 +109,17 @@ SQL          ████████████░░░░░░   70%
 
 <div align="center">
 
-![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliversimiyu&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliversimiyu&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliversimiyu&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 [![Oliver's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oliversimiyu&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 🏆 GitHub Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=oliversimiyu&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📈 Contribution Statistics
+![](https://github-contributor-stats.vercel.app/api?username=oliversimiyu&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 </div>
 
