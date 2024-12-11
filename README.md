@@ -111,7 +111,7 @@ SQL          ████████████░░░░░░   70%
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliversimiyu&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=oliversimiyu)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oliversimiyu&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## 🌟 Featured Projects
 - [smart-home-automation](https://github.com/oliversimiyu/smart-home-automation) - Python-based smart home automation system
