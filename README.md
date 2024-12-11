@@ -107,11 +107,15 @@ SQL          ████████████░░░░░░   70%
 
 ## 📊 GitHub Stats
 
-![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliversimiyu&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliversimiyu&layout=compact&theme=radical)
+![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliversimiyu&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliversimiyu&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oliversimiyu&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
 
 ## 🌟 Featured Projects
 - [smart-home-automation](https://github.com/oliversimiyu/smart-home-automation) - Python-based smart home automation system
